@@ -24,3 +24,6 @@ hs_err_pid*
 /RESTClient/nbproject/private/
 /AuctionWebSOAPClient/dist/
 /AuctionWebSOAPClient/build/
+/RESTService/build/
+/RESTService/dist/
+/RESTService/nbproject/private/
